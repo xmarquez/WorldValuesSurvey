@@ -1,0 +1,957 @@
+VAR,LABEL,QUESTION
+V1,Wave,Wave number
+V2,Country Code,Country code
+V2A,Country/regions [with split ups],"Country/regions [with split ups]
+
+This is the same variable as V2 with some countries, such as Germany, splitted in two or more regions (for example West-Germany and East-Germany)"
+V3,Interview number,Interview number
+V4,Important in life: Family,"For each of the following, indicate how important it is in your life. Would you say it is:
+
+Family"
+V5,Important in life: Friends,"For each of the following, indicate how important it is in your life. Would you say it is:
+
+Friends"
+V6,Important in life: Leisure time,"For each of the following, indicate how important it is in your life. Would you say it is:
+
+Leisure time"
+V7,Important in life: Politics,"For each of the following, indicate how important it is in your life. Would you say it is:
+
+Politics"
+V8,Important in life: Work,"For each of the following, indicate how important it is in your life. Would you say it is:
+
+Work"
+V9,Important in life: Religion,"For each of the following, indicate how important it is in your life. Would you say it is:
+
+Religion"
+V10,Feeling of happiness,"Taking all things together, would you say you are:"
+V11,State of health (subjective),"All in all, how would you describe your state of health these days?. Would you say it is:"
+V12,Important child qualities: independence,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important?: 
+
+Independence"
+V13,Important child qualities: Hard work,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important?:
+
+Hard work"
+V14,Important child qualities: Feeling of responsibility,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important?:
+
+Feeling of responsibility"
+V15,Important child qualities: Imagination,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important?:
+
+Imagination"
+V16,Important child qualities: Tolerance and respect for other people,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important?:
+
+Tolerance and respect for other people"
+V17,Important child qualities: Thrift saving money and things,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important?:
+
+Thrift, saving money and things"
+V18,"Important child qualities: Determination, perseverance","Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important?:
+
+Determination and perseverance"
+V19,Important child qualities: Religious faith,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important?:
+
+Religious faith"
+V20,Important child qualities: Unselfishness,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important?:
+
+Unselfishness (* In Spanish ""generosity"")"
+V21,Important child qualities: Obedience,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important?:
+
+Obedience"
+V22,Important child qualities: Self-expression,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important?:
+
+Self-expression"
+V23,Satisfaction with your life,"All things considered, how satisfied are you with your life as a whole these days? Using this card on which 1 means you are “completely dissatisfied” and 10 means you are “completely satisfied” where would you put your satisfaction with your life as a whole?:"
+V24,Most people can be trusted,"Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people?"
+V25,Active/Inactive membership: Church or religious organization,"Now I am going to read off a list of voluntary organizations. For each organization, could you tell me whether you are an active member, an inactive member or not a member of that type of organization?:
+
+Church or religious organization"
+V26,Active/Inactive membership: Sport or recreational organization,"Now I am going to read off a list of voluntary organizations. For each organization, could you tell me whether you are an active member, an inactive member or not a member of that type of organization?:
+
+Sport or recreational organization"
+V27,"Active/Inactive membership: Art, music or educational organization","Now I am going to read off a list of voluntary organizations. For each organization, could you tell me whether you are an active member, an inactive member or not a member of that type of organization?:
+
+Art, music or educational organization"
+V28,Active/Inactive membership: Labor Union,"Now I am going to read off a list of voluntary organizations. For each organization, could you tell me whether you are an active member, an inactive member or not a member of that type of organization?:
+
+Labor Union"
+V29,Active/Inactive membership: Political party,"Now I am going to read off a list of voluntary organizations. For each organization, could you tell me whether you are an active member, an inactive member or not a member of that type of organization?:
+
+Political party"
+V30,Active/Inactive membership: Environmental organization,"Now I am going to read off a list of voluntary organizations. For each organization, could you tell me whether you are an active member, an inactive member or not a member of that type of organization?:
+
+Environmental organization"
+V31,Active/Inactive membership: Professional association,"Now I am going to read off a list of voluntary organizations. For each organization, could you tell me whether you are an active member, an inactive member or not a member of that type of organization?:
+
+Professional association"
+V32,Active/Inactive membership: Humanitarian or charitable organization,"Now I am going to read off a list of voluntary organizations. For each organization, could you tell me whether you are an active member, an inactive member or not a member of that type of organization?:
+
+Humanitarian or charitable organization"
+V33,Active/Inactive membership: Consumer organization,"Now I am going to read off a list of voluntary organizations. For each organization, could you tell me whether you are an active member, an inactive member or not a member of that type of organization?:
+
+Consumer organization"
+V34,"Active/Inactive membership: Self-help group, mutual aid group","Now I am going to read off a list of voluntary organizations. For each organization, could you tell me whether you are an active member, an inactive member or not a member of that type of organization?:
+
+Self-help group, mutual aid group"
+V35,Active/Inactive membership: Other organization,"Now I am going to read off a list of voluntary organizations. For each organization, could you tell me whether you are an active member, an inactive member or not a member of that type of organization?:
+
+Other organization"
+V36,Would not like to have as neighbors: Drug addicts,"On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?:
+
+Drug addicts"
+V37,Would not like to have as neighbors: People of a different race,"On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?:
+
+People of a different race"
+V38,Would not like to have as neighbors: People who have AIDS,"On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?:
+
+People who have AIDS"
+V39,Would not like to have as neighbors: Immigrants/foreign workers,"On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?:
+
+Immigrants/Foreign workers"
+V40,Would not like to have as neighbors: Homosexuals,"On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?:
+
+Homosexuals"
+V41,Would not like to have as neighbors: People of a different religion,"On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?:
+
+People of a different religion"
+V42,Would not like to have as neighbors: Heavy drinkers,"On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?:
+
+Heavy drinkers"
+V43,Would not like to have as neighbors: Unmarried couples living together,"On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?:
+
+Unmarried couples living together"
+V44,Would not like to have as neighbors: People who speak a different language,"On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?:
+
+People who speak a different language"
+V44_ES,Would not like to have as neighbors: Gypsies (ES),"On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?:
+
+Gypsies"
+V45,"When jobs are scarce, men should have more right to a job than women","Do you agree, disagree or neither agree nor disagree with the following statements?:
+
+""When jobs are scarce, men should have more right to a job than women"""
+V46,"When jobs are scarce, employers should give priority to people of this country over immigrants.","Do you agree, disagree or neither agree nor disagree with the following statements?:
+
+""When jobs are scarce, employers should give priority to people of this country over immigrants."""
+V47,"If a woman earns more money than her husband, it's almost certain to cause problems","Do you agree, disagree or neither agree nor disagree with the following statements?:
+
+""If a woman earns more money than her husband, it's almost certain to cause problems"""
+V48,Having a job is the best way for a woman to be an independent person.,"Do you agree, disagree or neither agree nor disagree with the following statements?:
+
+""Having a job is the best way for a woman to be an independent person."""
+V49,One of my main goals in life has been to make my parents proud,"For each of the following statements I read out, can you tell me how strongly you agree or disagree with each. Do you strongly agree, agree, disagree, or strongly disagree?:
+
+""One of my main goals in life has been to make my parents proud"""
+V50,"When a mother works for pay, the children suffer","For each of the following statements I read out, can you tell me how strongly you agree or disagree with each. Do you strongly agree, agree, disagree, or strongly disagree?:
+
+""When a mother works for pay, the children suffer"""
+V51,"On the whole, men make better political leaders than women do","For each of the following statements I read out, can you tell me how strongly you agree or disagree with each. Do you strongly agree, agree, disagree, or strongly disagree?:
+
+""On the whole, men make better political leaders than women do"""
+V52,A university education is more important for a boy than for a girl,"For each of the following statements I read out, can you tell me how strongly you agree or disagree with each. Do you strongly agree, agree, disagree, or strongly disagree?:
+
+""A university education is more important for a boy than for a girl"""
+V53,"On the whole, men make better  business executives than women do","For each of the following statements I read out, can you tell me how strongly you agree or disagree with each. Do you strongly agree, agree, disagree, or strongly disagree?:
+
+""On the whole, men make better  business executives than women do"""
+V54,Being a housewife is just as fulfilling as working for pay,"For each of the following statements I read out, can you tell me how strongly you agree or disagree with each. Do you strongly agree, agree, disagree, or strongly disagree?:
+
+""Being a housewife is just as fulfilling as working for pay"""
+V55,How much freedom of choice and control over own life,"Some people feel they have completely free choice and control over their lives, while other people feel that what they do has no real effect on what happens to them. Please use this scale where 1 means ""no choice at all"" and 10 means ""a great deal of choice"" to indicate how much freedom of choice and control you feel you have over the way your life turns out:"
+V56,"Do you think most people would try to take advantage of you if they got a chance, or would they try to be fair?","Do you think most people would try to take advantage of you if they got a chance, or would they try to be fair? Please show your response on this card, where 1 means that “people would try to take advantage of you,” and 10 means that “people would try to be fair”:"
+V56_NZ,"Do you think most people would try to take advantage of you if they got a chance, or would they try to be fair? (NZ)","Do you think most people would try to take advantage of you if they got a chance, or would they try to be fair?"
+V57,Marital status,Are you currently:
+V58,How many children do you have,Have you had any children?
+V59,Satisfaction with financial situation of household,How satisfied are you with the financial situation of your household?
+V60,Aims of country: first choice,"People sometimes talk about what the aims of this country should be for the next ten years. On this card are listed some of the goals which different people would give top priority. Would you please say which one of these you, yourself, consider the most important?"
+V61,Aims of country: second choice,And which would be the next most important?
+V62,Aims of respondent: first choice,"If you had to choose, which one of the things on this card would you say is most important?"
+V63,Aims of respondent: second choice,And which would be the next most important?
+V64,Most important: first choice,"Here is another list. In your opinion, which one of these is most important?"
+V65,Most important: second choice,And what would be the next most important?
+V66,Willingness to fight for your country,"Of course, we all hope that there will not be another war, but if it were to come to that, would you be willing to fight for your country?"
+V67,Future changes: Less importance placed on work in our lives,"I'm going to read out a list of various changes in our way of life that might take place in the near future. Please tell me for each one, if it were to happen, whether you think it would be a good thing, a bad thing, or don't you mind? 
+
+""Less importance placed on work in our lives"""
+V68,Future changes: More emphasis on the development of  technology,"I'm going to read out a list of various changes in our way of life that might take place in the near future. Please tell me for each one, if it were to happen, whether you think it would be a good thing, a bad thing, or don't you mind?:
+
+""More emphasis on the development of  technology"""
+V69,Future changes: Greater respect for authority,"I'm going to read out a list of various changes in our way of life that might take place in the near future. Please tell me for each one, if it were to happen, whether you think it would be a good thing, a bad thing, or don't you mind?:
+
+""Greater respect for authority"""
+V70,Schwartz: It is important to this person to think up new ideas and be creative; to do things one’s own way,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you? 
+
+""It is important to this person to think up new ideas and be creative; to do things one’s own way. """
+V71,Schwartz: It is important to this person to be rich; to have a lot of money and expensive things,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you? 
+
+""It is important to this person to be rich; to have a lot of money and expensive things"""
+V72,Schwartz: Living in secure surroundings is important to this person; to avoid anything that might be dangerous,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you? 
+
+""Living in secure surroundings is important to this person; to avoid anything that might be dangerous"""
+V73,Schwartz: It is important to this person to have a good time; to “spoil” oneself,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you? :
+
+""It is important to this person to have a good time; to “spoil” oneself"""
+V74,Schwartz: It is important to this person to do something for the good of society,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you?:
+
+""It is important to this person to do something for the good of society"""
+V74B,Schwartz: It is important to help people living nearby; to care for their needs,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you? :
+
+
+""It is important to help people living nearby; to care for their needs"""
+V75,Schwartz: Being very successful is important to this person; to have people recognize one’s achievements,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you?
+
+""Being very successful is important to this person; to have people recognize one’s achievements"""
+V76,Schwartz: Adventure and taking risks are important to this person; to have an exciting life,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you? :
+
+""Adventure and taking risks are important to this person; to have an exciting life"""
+V77,Schwartz: It is important to this person to always behave properly; to avoid doing anything people would say is wrong,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you?:
+
+""It is important to this person to always behave properly; to avoid doing anything people would say is wrong"""
+V78,Schwartz: Looking after the environment is important to this person; to care for nature and save life resources,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you? :
+
+""Looking after the environment is important to this person; to care for nature and save life resources"""
+V79,Schwartz: Tradition is important to this person; to follow the customs handed down by one’s religion or family,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you?:
+
+""Tradition is important to this person; to follow the customs handed down by one’s religion or family"""
+V80,Most serious problem of the world,I’m going to read out some  problems. Please indicate which of the following problems you consider the most serious one for the world as a whole?
+V81,Protecting environment vs. Economic growth,Here are two statements people sometimes make when discussing the environment and economic growth. Which of them comes closer to your own point of view?:
+V82,Past two years: given money to ecological organization,During the past two years have you… Given money to an ecological organization?
+V83,Past two years: participated in demonstration for environment,During the past two years have you…Participated in a demonstration for some environmental cause?
+V84,Interest in politics,How interested would you say you are in politics?
+V85,Political action: Signing a petition,"Now I’d like you to look at this card. I’m going to read out some forms of political action that people can take, and I’d like you to tell me, for each one, whether you have done any of these things, whether you might do it or would never under any circumstances do it:
+
+""Signing a petition"""
+V86,Political action: Joining in boycotts,"Now I’d like you to look at this card. I’m going to read out some forms of political action that people can take, and I’d like you to tell me, for each one, whether you have done any of these things, whether you might do it or would never under any circumstances do it:
+
+""Joining in boycotts"""
+V87,Political action: Attending peaceful demonstrations,"Now I’d like you to look at this card. I’m going to read out some forms of political action that people can take, and I’d like you to tell me, for each one, whether you have done any of these things, whether you might do it or would never under any circumstances do it:
+
+""Attending peaceful demonstrations"""
+V88,Political action: Joining strikes,"Now I’d like you to look at this card. I’m going to read out some forms of political action that people can take, and I’d like you to tell me, for each one, whether you have done any of these things, whether you might do it or would never under any circumstances do it:
+
+""Joining strikes"""
+V89,Political action: Any other act of protest,"Now I’d like you to look at this card. I’m going to read out some forms of political action that people can take, and I’d like you to tell me, for each one, whether you have done any of these things, whether you might do it or would never under any circumstances do it:
+
+""Any other act of protest"""
+V90,Political action recently done: Signing a petition,"Tell me for each of these activities how often you have done it in the last year (Only to those who said they ""have done"" the given protest activity):
+
+""Signing a petition"""
+V91,Political action recently done: Joining in boycotts,"Tell me for each of these activities how often you have done it in the last year (Only to those who said they ""have done"" the given protest activity):
+
+""Joining in boycotts"""
+V92,Political action recently done: Attending peaceful demonstrations,"Tell me for each of these activities how often you have done it in the last year (Only to those who said they ""have done"" the given protest activity):
+
+""Attending peaceful demonstrations"""
+V93,Political acition recently done: Joining strikes,"Tell me for each of these activities how often you have done it in the last year  (Only to those who said they ""have done"" the given protest activity):
+
+""Joining strikes"""
+V94,Political action recently done: Any other act of protest,"Tell me for each of these activities how often you have done it in the last year  (Only to those who said they ""have done"" the given protest activity):
+
+""Any other act of protest"""
+V95,Self positioning in political scale,"In political matters, people talk of ""the left"" and ""the right."" How would you place your views on this scale, generally speaking?"
+V96,Income equality,"Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.
+
+""Incomes should be made more equal"" vs.
+""We need larger income differences as incentives for individual effort"""
+V97,Private vs state ownership of business,"Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.
+
+""Private ownership of business and industry should be increased"" vs. ""Government ownership of business and industry should be increased"""
+V98,Government responsibility,"Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.
+
+""Government should take more responsibility to ensure that everyone is provided for"" vs.
+""People should take more responsibility to provide for themselves"""
+V99,Competition good or harmful,"Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.
+
+""Competition is good. It stimulates people to work hard and develop new ideas"" vs. 
+""Competition is harmful. It brings out the worst in people"""
+V100,Hard work brings success,"Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.
+
+""In the long run, hard work usually brings a better life"" vs. 
+""Hard work doesn’t generally bring success—it’s more a matter of luck and connections"""
+V101,Wealth accumulation,"Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.:
+
+""People can only get rich at the expense of others"" vs.
+""Wealth can grow so there’s enough for everyone"""
+V102,How much you trust: Your family,"I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all?
+
+Your family"
+V103,How much you trust: Your neighborhood,"I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all?
+
+Your neighborhood"
+V104,How much you trust: People you know personally,"I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all?
+
+People you know personally"
+V105,How much you trust: People you meet for the first time,"I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all?
+
+People you meet for the first time"
+V106,How much you trust: People of another religion,"I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all? :
+
+People of another religion"
+V107,How much you trust: People of another nationality,"I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all?
+
+People of another nationality"
+V108,Confidence: The Churches,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?
+
+The churches (*)
+
+*   [Substitute “religious organizations” in non-Christian countries; “the Church” in Catholic countries]"
+V109,Confidence: The armed forces,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+The armed forces"
+V110,Confidence: The press,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+The press"
+V111,Confidence: Television,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+Television"
+V112,Confidence: Labour Unions,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+Labor unions"
+V113,Confidence: The police,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+The police"
+V114,Confidence: The courts,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+The courts"
+V115,Confidence: The government (in your nation’s capital),"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+The government (in your nation’s capital)"
+V116,Confidence: Political Parties,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+Political parties"
+V117,Confidence: Parliament,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+Parliament"
+V118,Confidence: The Civil service,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+The Civil service"
+V119,Confidence: Universities,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+Universities"
+V120,Confidence: Major Companies,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+Major Companies"
+V121,Confidence: Banks,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+Banks"
+V122,Confidence: Environmental organizations,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+Environmental organizations"
+V123,Confidence: Women's organizations,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? 
+
+Women’s organizations"
+V124,Confidence: Charitable or humanitarian organizations,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?
+
+Charitable or humanitarian organizations"
+V125_00,Confidence: The European Union,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+The [European Union]"
+V125_01,Confidence: The APEC (Asia-Pacific Economic Cooperation Conference),"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+The APEC (Asia-Pacific Economic Cooperation Conference)"
+V125_02,Confidence: CARICOM,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+CARICOM"
+V125_03,Confidence: The Arab Maghreb Union,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+The Arab Maghreb Union"
+V125_04,Confidence: The Organization of the Islamic World,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+The Organization of the Islamic World"
+V125_05,Confidence: The NAFTA  (North American Free Trade Agreement),"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+The NAFTA"
+V125_06,Confidence: The MERCOSUR,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+The MERCOSUR"
+V125_07,Confidence: The CIS,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+The CIS"
+V125_08,Confidence: The African Union,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+The African Union"
+V125_09,Confidence: The ASEAN (Association of South East Asian Nations),"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+The ASEAN (Association of South East Asian Nations)"
+V125_10,Confidence: The CER (closer economic relations) with Australia,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+The CER"
+V125_11,Confidence: The Organization of American States (OAE),"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+The Organization of American States (OAE)"
+V125_12,Confidence: SAARC,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+SAARC"
+V125_13,Confidence: UNASUR,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+UNASUR"
+V125_14,Confidence: The Free Commerce Treaty (Tratado de libre comercio),"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+The Free Commerce Treaty (Tratado de libre comercio)"
+V125_15,Confidence: The Arab League,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+The Arab League"
+V125_16,Confidence: Cooperation Council for the Arab states of Gulf (GCC),
+V125_17,Confidence: Mainland government,
+V126,Confidence: The United Nations,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:
+
+The United Nations"
+V127,"Political system: Having a strong leader who does 
+not have  to bother with parliament and elections","I'm going to describe various types of political systems and ask what you think about each as a way of governing this country. For each one, would you say it is a very good, fairly good, fairly bad or very bad way of governing this country? 
+
+Having a strong leader who does not have  to bother with parliament and elections"
+V128,"Political system: Having experts, not government, make 
+decisions according to what they think is best for the country","I'm going to describe various types of political systems and ask what you think about each as a way of governing this country. For each one, would you say it is a very good, fairly good, fairly bad or very bad way of governing this country? 
+
+Having experts, not government, make decisions according to what they think is best for the country"
+V129,Political system: Having the army rule,"I'm going to describe various types of political systems and ask what you think about each as a way of governing this country. For each one, would you say it is a very good, fairly good, fairly bad or very bad way of governing this country? 
+
+Having the army rule"
+V130,Political system: Having a democratic political system,"I'm going to describe various types of political systems and ask what you think about each as a way of governing this country. For each one, would you say it is a very good, fairly good, fairly bad or very bad way of governing this country? 
+
+Having a democratic political system"
+V131,Democracy: Governments tax the rich and subsidize the poor.,"Many things are desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy”:
+
+Governments tax the rich and subsidize the poor"
+V132,Democracy: Religious authorities interpret the laws.,"Many things are desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy”:
+
+Religious authorities ultimately interpret the laws"
+V133,Democracy: People choose their leaders in free elections.,"Many things are desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy”:
+
+People choose their leaders in free elections"
+V134,Democracy: People receive state aid for unemployment.,"Many things are desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy”:
+
+People receive state aid for unemployment"
+V135,Democracy: The army takes over when government is incompetent.,"Many things are desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy”:
+
+The army takes over when government is incompetent"
+V136,Democracy: Civil rights protect people’s liberty from state oppression,"Many things are desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy”:
+
+Civil rights protect people from state oppression"
+V137,Democracy: The state makes people's incomes equal,"Many things are desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy”:
+
+The state makes people’s incomes equal"
+V138,Democracy: People obey their rulers,"Many things are desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy”:
+
+People obey their rulers"
+V139,Democracy: Women have the same rights as men.,"Many things are desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy”:
+
+Women have the same rights as men"
+V140,Importance of democracy,How important is it for you to live in a country that is governed democratically? On this scale where 1 means it is “not at all important” and 10 means “absolutely important” what position would you choose?
+V141,How democratically is this country being governed today,"And how democratically is this country being governed today? Again using a scale from 1 to 10, where 1 means that it is “not at all democratic” and 10 means that it is “completely democratic,” what position would you choose?"
+V142,How much respect is there for individual human rights nowadays in this country,How much respect is there for individual human rights nowadays in this country?. Do you feel there is:
+V143,Thinking about meaning and purpose of life,"Now let’s turn to another topic. How often, if at all, do you think about the meaning and purpose of life?"
+V144,Religious denomination,"Do you belong to a religion or religious denomination?. If yes, which one?"
+V145,How often do you attend religious services,"Apart from weddings and funerals, about how often do you attend religious services these days?"
+V146,How often to you pray,"Apart from weddings and funerals, about how often do you pray?"
+V147,Religious person,"Independently of whether you attend religious services or not, would you say you are:"
+V148,Believe in: God,Do you believe in God?
+V149,Believe in: hell,Do you believe in hell?
+V150,Meaning of religion: To follow religious norms and ceremonies vs To do good to other people,"With which one of the following statements do you agree most?
+The basic meaning of religion is:
+""To follow religious norms  and ceremonies"" or ""To do good to other people"""
+V151,Meaning of religion: To make sense of life after death vs To make sense of life in this world,"And with which of the following statements do you agree most?
+The basic meaning of religion is:
+""To make sense of life after death"" or 
+""To make sense of life in this world"""
+V152,How important is God in your life,How important is God in your life?. Please use this scale to indicate. 10 means “very important” and 1 means “not at all important.”:
+V153,"Whenever science and religion conflict,  religion is always right","Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:
+
+""Whenever science and religion conflict,  religion is always right"""
+V154,The only acceptable religion  is my religion,"Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements: 
+
+""The only acceptable religion  is my religion"""
+V155,All religions should be taught in public schools,"Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:
+
+All religions should be taught in our public schools"
+V156,People who belong to different religions are probably just as moral as those who belong to mine,"Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements: 
+
+People who belong to different religions are probably just as moral as those who belong to mine"
+V157,Social position: People in their 20s,"I’m interested in how you think most people in this country view the position in society of people in their 20s, people in their 40s and people over 70.* Using this card, please tell me where most people would place the social position of …
+
+…people in their 20’s?"
+V158,Social position: People in their 40s,"I’m interested in how you think most people in this country view the position in society of people in their 20s, people in their 40s and people over 70.* Using this card, please tell me where most people would place the social position of …
+
+…people in their 40’s?"
+V159,Social position: People in their 70s,"I’m interested in how you think most people in this country view the position in society of people in their 20s, people in their 40s and people over 70.* Using this card, please tell me where most people would place the social position of …
+
+…people over 70?"
+V160,Is a 30-year old boss acceptable,Please tell me how acceptable or unacceptable you think most people in [country] would find it if a suitably qualified 30 year old was appointed as their boss?
+V161,People over 70: are seen as friendly,"Now think about those aged over 70*. Using the same card please tell me how likely it is that most people in [country] view those over 70...
+
+…as friendly?"
+V162,People over 70: are seen as competent,"Now think about those aged over 70*. Using the same card please tell me how likely it is that most people in [country] view those over 70...
+
+…as competent?"
+V163,People over 70: viewed with respect,"Now think about those aged over 70*. Using the same card please tell me how likely it is that most people in [country] view those over 70...
+
+…with respect?"
+V164,Is a 70-year old boss acceptable,Please tell me how acceptable or unacceptable you think most people in [country] would find it if a suitably qualified 70* year old was appointed as their boss?
+V165,Older people are not respected much these days,"Now could you tell me whether you agree, agree strongly, disagree or disagree strongly with each of the following statements? 
+
+Older people are not respected much these days"
+V166,Older people get more than their fair share from the government,"Now could you tell me whether you agree, agree strongly, disagree or disagree strongly with each of the following statements? 
+
+Older people get more than their fair share from the government"
+V167,Older people are a burden on society,"Now could you tell me whether you agree, agree strongly, disagree or disagree strongly with each of the following statements? 
+
+Older people are a burden on society."
+V168,Companies that employ young people perform better than those that employ people of different ages,"Now could you tell me whether you agree, agree strongly, disagree or disagree strongly with each of the following statements? 
+
+Companies that employ young people perform better than those that employ people of different ages."
+V169,Old people have too much political influence,"Now could you tell me whether you agree, agree strongly, disagree or disagree strongly with each of the following statements? 
+
+Old people have too much political influence."
+V160A,I see myself as someone who: is reserved,"Now could you tell me whether you agree strongly, agree a little, neither agree nor disagree, disagree  a little or disagree strongly with each of the following statements?:
+
+I see myself as somene who is reserved"
+V160B,I see myself as someone who: is generally trusting,"Now could you tell me whether you agree strongly, agree a little, neither agree nor disagree, disagree  a little or disagree strongly with each of the following statements?:
+
+I see myself as somene who is generally trusting"
+V160C,I see myself as someone who: tends to be lazy,"Now could you tell me whether you agree strongly, agree a little, neither agree nor disagree, disagree  a little or disagree strongly with each of the following statements?:
+
+I see myself as someone who is tends to be lazy"
+V160D,"I see myself as someone who: is relaxed, handles stress well","Now could you tell me whether you agree strongly, agree a little, neither agree nor disagree, disagree  a little or disagree strongly with each of the following statements?:
+
+I see myself as someone who is relaxed, handles stress well"
+V160E,I see myself as someone who: has few artistic interests,"Now could you tell me whether you agree strongly, agree a little, neither agree nor disagree, disagree  a little or disagree strongly with each of the following statements?:
+
+I see myself as someone who has few artistic interests"
+V160F,"I see myself as someone who: is outgoing, sociable","Now could you tell me whether you agree strongly, agree a little, neither agree nor disagree, disagree  a little or disagree strongly with each of the following statements?:
+
+I see myself as someone who is outgoing, sociable"
+V160G,I see myself as someone who: tends to find fault with others,"Now could you tell me whether you agree strongly, agree a little, neither agree nor disagree, disagree  a little or disagree strongly with each of the following statements?:
+
+I see myself as someone who tends to find fault with others"
+V160H,I see myself as someone who: does a thorough job,"Now could you tell me whether you agree strongly, agree a little, neither agree nor disagree, disagree  a little or disagree strongly with each of the following statements?:
+
+I see myself as someone who tends to find fault with others"
+V160I,I see myself as someone who: gets nervous easily,"Now could you tell me whether you agree strongly, agree a little, neither agree nor disagree, disagree  a little or disagree strongly with each of the following statements?:
+
+I see myself as someone who gets nervous easily"
+V160J,I see myself as someone who: has an active imagination,"Now could you tell me whether you agree strongly, agree a little, neither agree nor disagree, disagree  a little or disagree strongly with each of the following statements?:
+
+I see myself as someone who has an active imagination"
+V170,Secure in neighborhood,Could you tell me how secure do you feel these days in your neighborhood?
+V171,How frequently do the following things occur in your neighborhood: Robberies,"How frequently do the following things occur in your neighborhood?
+
+Robberies"
+V172,How frequently do the following things occur in your neighborhood: Alcohol consumed in the streets,"How frequently do the following things occur in your neighborhood?
+
+Alcohol consumption in the streets"
+V173,How frequently do the following things occur in your neighborhood: Police or military interfere with people’s private life,"How frequently do the following things occur in your neighborhood?
+
+Police or military interfere with people’s private life"
+V174,How frequently do the following things occur in your neighborhood: Racist behavior,"How frequently do the following things occur in your neighborhood?
+
+Racist behavior"
+V175,How frequently do the following things occur in your neighborhood: Drug sale in streets,"How frequently do the following things occur in your neighborhood?
+
+Drug sale in streets"
+V176,Things done for reasons of security: Didn’t carry much money,"Which of the following things have you done for reasons of security? 
+
+Didn’t carry much money"
+V177,Things done for reasons of security: Preferred not to go out at night,"Which of the following things have you done for reasons of security? 
+
+Preferred not to go out at night"
+V178,"Things done for reasons of security: Carried a knife, gun or other weapon","Which of the following things have you done for reasons of security? 
+
+Carried a knife, gun or other weapon"
+V179,Respondent was victim of a crime during the past year,Have you been the victim of a crime during the past year?
+V180,Respondent's family was victim of a crime during last year,And what about your immediate family--has someone in your family been the victim of a crime during the last year?
+V181,Worries: Losing my job or not finding a job,"To what degree are you worried about the following situations? 
+
+Losing my job or not finding a job"
+V182,Worries: Not being able to give one's children a good education,"To what degree are you worried about the following situations? 
+
+Not being able to give my children a good education"
+V183,Worries: A war involving my country,"To what degree are you worried about the following situations? 
+
+A war involving my country"
+V184,Worries: A terrorist attack,"To what degree are you worried about the following situations? 
+
+A terrorist attack"
+V185,Worries: A civil war,"To what degree are you worried about the following situations? 
+
+A civil war"
+V186,Worries: Government wire-tapping or reading my mail or email,"To what degree are you worried about the following situations? 
+
+Government wire-tapping or reading my mail or email"
+V187,"Under some conditions, war is necessary to obtain justice","Do you agree or disagree with the following statement:
+
+“Under some conditions, war is necessary to obtain justice”"
+V188,"In the last 12 month, how often have you or your family: Gone without enough food to eat","In the last 12 month, how often have you or your family:
+
+Gone without enough food to eat"
+V189,"In the last 12 month, how often have you or your family: Felt unsafe from crime in your own home","In the last 12 month, how often have you or your family: 
+
+Felt unsafe from crime in your home"
+V190,"In the last 12 month, how often have you or your family: Gone without needed medicine or treatment that you needed","In the last 12 month, how often have you or your family: 
+
+Gone without medicine or medical treatment that you needed"
+V191,"In the last 12 month, how often have you or your family: Gone without a cash income","In the last 12 month, how often have you or your family: 
+
+Gone without a cash income"
+V192,"Science and technology are making our lives healthier, easier, and more comfortable","Now, I would like to read some statements and ask how much you agree or disagree with each of these statements. For these questions, a 1 means that you “completely disagree” and a 10 means that you “completely agree”:
+
+""Science and technology are making our lives healthier, easier, and more comfortable"""
+V193,"Because of science and technology, there will be more opportunities for the next generation","Now, I would like to read some statements and ask how much you agree or disagree with each of these statements. For these questions, a 1 means that you “completely disagree” and a 10 means that you “completely agree”:
+
+Because of science and technology, there will be more opportunities for the next generation"
+V194,We depend too much on science and not enough on faith,"Now, I would like to read some statements and ask how much you agree or disagree with each of these statements. For these questions, a 1 means that you “completely disagree” and a 10 means that you “completely agree”:
+
+We depend too much on science and not enough on faith"
+V195,One of the bad effects of science is that it breaks down people’s ideas of right and wrong,"Now, I would like to read some statements and ask how much you agree or disagree with each of these statements. For these questions, a 1 means that you “completely disagree” and a 10 means that you “completely agree”:
+
+One of the bad effects of science is that it breaks down people’s ideas of right and wrong"
+V196,It is not important for me to know about science in my daily life,"Now, I would like to read some statements and ask how much you agree or disagree with each of these statements. For these questions, a 1 means that you “completely disagree” and a 10 means that you “completely agree”:
+
+It is not important for me to know about science in my daily life"
+V197,"The world is better off, or worse off, because of science and technology","All things considered, would you say that the world is better off, or worse off, because of science and technology?. Please tell me which comes closest to your view on this scale: 1 means that “the world is a lot worse off,” and 10 means that “the world is a lot better off”."
+V198,Justifiable: Claiming government benefits to which you are not entitled,"Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between:
+
+Claiming government benefits to which you are not entitled"
+V199,Justifiable: Avoiding a fare on public transport,"Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between:
+
+Avoiding a fare on public transport"
+V200,Justifiable: Stealing property,"Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between: 
+
+Stealing property"
+V201,Justifiable: Cheating on taxes if you have a chance,"Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between:
+
+Cheating on taxes if you have a chance"
+V202,Justifiable: Someone accepting a bribe in the course of their duties,"Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between:
+
+Someone accepting a bribe in the course of their duties"
+V203,Justifiable: Homosexuality,"Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between: 
+
+Homosexuality"
+V203A,Justifiable: Prostitution,"Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between:
+
+Prostitution"
+V204,Justifiable: Abortion,"Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between: 
+
+Abortion"
+V205,Justifiable: Divorce,"Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between:
+
+Divorce"
+V206,Justifiable: Sex before marriage,"Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between:
+
+Sex before marriage"
+V207,Justifiable: Suicide,"Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between: 
+
+Suicide"
+V207A,Justifiable: Euthanasia,"Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between:
+
+Euthanasia"
+V208,Justifiable: For a man to beat his wife,"Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between:
+
+For a man to beat his wife"
+V209,Justifiable: Parents beating children,"Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between:
+
+Parents beating children"
+V210,Justifiable: Violence against other people,"Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between:
+
+Violence against other people"
+V211,How proud of nationality,"How proud are you to be [Nationality]*?:
+
+* [Substitute your own nationality]"
+V212,I see myself as a world citizen,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself? 
+
+I see myself as a world citizen"
+V213,I see myself as part of my local community,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?
+
+I see myself as part of my local community"
+V214,I see myself as part of the [country] nation,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself? 
+
+I see myself as part of the [French]* nation
+
+*   [Substitute your country’s nationality for “French”]"
+V215_01,I see myself as citizen of the [European Union],"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself? 
+
+I see myself as part of the [European Union]"
+V215_02,I see myself as citizen of the [APEC],"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself? 
+
+I see myself as part of the [APEC]"
+V215_03,I see myself as part of the [Northeast Asia Region],"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself? 
+
+I see myself as part of [ASIA]"
+V215_04,I see myself as part of [The Caribbean],"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?
+
+I see myself as part of [The Caribbean]"
+V215_05,I see myself as part of [Arab Maghreb Union],"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself? 
+
+I see myself as part of [Arab Maghreb Union]"
+V215_06,I see myself as part of the [Arab Union],"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?
+
+I see myself as part of the  [Arab Union]"
+V215_07,I see myself as part of [North America],"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?
+
+I see myself as part of [North America]"
+V215_08,I see myself as part of the Latin-American Community,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?
+
+I see myself as part of the Latin-American Community"
+V215_10,I see myself as part of [Mercosur],"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?
+
+I see myself as part of [Mercosur]"
+V215_11,I see myself as part of [CIS],"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?
+
+I see myself as part of [CIS]"
+V215_12,I see myself as part of [The African Union],"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself? 
+
+I see myself as part of [The African Union]"
+V215_13,I see myself as part of the [ASEAN],"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?
+
+I see myself as part of the [ASEAN]"
+V215_14,I see myself as part of ASIA,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?
+
+I see myself as part of ASIA"
+V215_15,I see myself as part of the [UNASUR],"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?
+
+I see myself as part of the [UNASUR]"
+V215_16,I see myself as part of the [Islamic nation],"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?
+
+I see myself as part of the [Islamic nation]"
+V215_17,I see myself as part of the Cooperation Council for the Arab states of Gulf (GCC),
+V215_18,I see myself as part of  [SAARC],
+V216,I see myself as an autonomous individual,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?
+
+I see myself as an autonomous individual"
+V217,Information source: Daily newspaper,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:
+
+Daily newspaper"
+V218,Information source: Printed magazines,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:
+
+Printed magazines"
+V219,Information source: TV news,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:
+
+TV news"
+V220,Information source: Radio news,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:
+
+Radio news"
+V221,Information source: Mobile phone,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:
+
+Mobile phone"
+V222,Information source: Email,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:
+
+Email"
+V223,Information source: Internet,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:
+
+Internet"
+V224,Information source: Talk with friends or colleagues,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:
+
+Talk with friends or colleagues"
+V218_ESMA,"Used last week: Printed magazines (ES,MA)","People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:
+
+Printed magazines
+
+[* For countries using a different set of answers]"
+V217_ESMA,"Used last week: Daily newspaper (ES,MA)","People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:
+
+Daily newspaper
+
+[* For countries using a different set of answers]"
+V219_ESMA,"Used last week: TV news (ES,MA)","People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:
+
+TV news
+
+[* For countries using a different set of answers]"
+V220_ESMA,"Used last week: Radio news (ES,MA)","People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:
+
+Radio news
+
+[* For countries using a different set of answers]"
+V221_ESMA,"Used last week: Mobile phone (ES,MA)","People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:
+
+Mobile phone
+
+[* For countries using a different set of answers]"
+V222_ESMA,"Used last week: Email (ES,MA)","People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:
+
+Email
+
+[* For countries using a different set of answers]"
+V223_ESMA,"Used last week: Internet (ES,MA)","People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:
+
+Internet
+
+[* For countries using a different set of answers]"
+V224_ESMA,"Used last week: Talk with friends or colleagues (ES,MA)","People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:
+
+Talk with friends or colleagues
+
+[* For countries using a different set of answers]"
+V225,How often use of a personal computer,"How often, if ever, do you use a personal computer?"
+V226,Vote in elections: local level,"When elections take place, do you vote always, usually or never?:
+
+Local level"
+V227,Vote in elections: National level,"When elections take place, do you vote always, usually or never?:
+
+National level"
+V228,Which party would you vote for if there were a national election tomorrow,"If there were a national election tomorrow, for which party on this list would you vote?. If ""Don't know"": Which party appeals to you most?
+
+[Each country provides codes to cover all major parties in given society]"
+V228_2,Which party would you vote for if there were a national election tomorrow (2nd choice - optional),"If there were a national election tomorrow, for which party on this list would you vote?. If ""Don't know"": Which party appeals to you most?
+
+[Each country provides codes to cover all major parties in given society]"
+V228A,How often in country's elections: Votes are counted fairly,"In your view, how often do the following things occur in this country’s elections?
+
+Votes are counted fairly"
+V228B,How often in country's elections: Opposition candidates are prevented from running,"In your view, how often do the following things occur in this country’s elections?
+
+Opposition candidates are prevented from running"
+V228C,How often in country's elections: TV news favors the governing party,"In your view, how often do the following things occur in this country’s elections?
+
+TV news favors the governing party"
+V228D,How often in country's elections: Voters are bribed,"In your view, how often do the following things occur in this country’s elections?
+
+Voters are bribed"
+V228E,How often in country's elections: Journalists provide fair coverage of elections,"In your view, how often do the following things occur in this country’s elections?
+
+Journalists provide fair coverage of elections"
+V228F,How often in country's elections: Election officials are fair,"In your view, how often do the following things occur in this country’s elections?
+
+Election officials are fair"
+V228G,How often in country's elections: Rich people buy elections,"In your view, how often do the following things occur in this country’s elections?
+
+Rich people buy elections"
+V228H,How often in country's elections: Voters are threatened with  violence at the polls,"In your view, how often do the following things occur in this country’s elections?
+
+Voters are threatened with  violence at the polls"
+V228I,How often in country's elections: Voters are offered a genuine choice in the elections,"In your view, how often do the following things occur in this country’s elections?
+
+Voters are offered a genuine choice in the elections"
+V228J,Degree of importance: having honest elections makes a lot of difference in you and your family's lives,"Do you think that honest elections play an important role in deciding whether you and your family are able to make a good living?. How important would you say this is—very important, fairly important, not very important or not at all important?"
+V228K,Importance of having honest elections in whether or not this country develops economically,"Do you think that honest elections are an important factor in whether or not this country develops economically?. How important would you say this is—very important, fairly important, not very important or not at all important?"
+V229,Employment status,"Are you employed now or not?. If yes, about how many hours a week?. If more than one job: only for the main job"
+V230,Sector of employment,"Are you working for the government or public institution, for private business or industry, or for a private non-profit organization?. If you do not work currently, characterize your major work in the past!. Do you or did you work for?"
+V231,Nature of tasks: manual vs. intellectual,"Are the tasks you do at work mostly manual or mostly intellectual?. If you do not work currently, characterize your major work in the past. Use this scale where 1 means “mostly manual tasks” and 10 means “mostly intellectual tasks”"
+V232,Nature of tasks: routine vs. creative,"Are the tasks you perform at work mostly routine tasks or mostly creative tasks?. If you do not work currently, characterize your major work in the past. Use this scale where 1 means “mostly routine tasks” and 10 means “mostly creative tasks”"
+V233,Nature of tasks: independence,"How much independence do you have in performing your tasks at work?. If you do not work currently, characterize your major work in the past. Use this scale to indicate your degree of independence where 1 means “no independence at all” and 10 means “complete independence”"
+V234,Are you supervising someone,Do you or did you supervise other people at work?
+V235,Are you the chief wage earner in your house,Are you the chief wage earner in your household?
+V236,Is the chief wage earner employed now or not,Is the chief wage earner of your household employed now or not?
+V237,Family savings during past year,"During the past year, did your family save money, Just get by, Spent some savings or Spent savings and borrowed money"
+V238,Social class (subjective),"People sometimes describe themselves as belonging to the working class, the middle class, or the upper or lower class. Would you describe yourself as belonging to the:"
+V239,Scale of incomes,"On this card is an income scale on which 1 indicates the lowest income group and 10 the highest income group in your country. We would like to know in what group your household is. Please, specify the appropriate number, counting all wages, salaries, pensions and other incomes that come in."
+V240,Sex,Respondent's gender by observation
+V241,Year of birth,"Can you tell me your year of birth, please?"
+V242,Age,Age. This means you are ____ years old.
+V243,Mother immigrant,"Are your mother and father immigrants to this country or not?:
+
+Mother"
+V243_AU,Mother's Country of origin (AU),Mother's Country of origin
+V244,Father immigrant,"Are your mother and father immigrants to this country or not?:
+
+Father"
+V244_AU,Father's Country of origin (AU),Father's Country of origin
+V245,Respondent immigrant,Were you born in this country or are you an immigrant?
+V246,Respondent citizen,Are you a citizen of this country?
+V247,Language at home,What language do you normally speak at home?
+V248,Highest educational level attained,What is the highest educational level that you have attained?
+V248_CS,Education (country specific),What is the highest educational level that you have attained?
+V249,What age did you complete your education,"At what age did you (or will you) complete your full time education, either at school or at an institution of higher education?. Please exclude apprenticeships."
+V250,Do you live with your parents,Do you live with your parents?
+V251,Respondent interested during the interview,Respondent’s Interest during the interview
+V252,Interview privacy,The interview took place in privacy or not
+V253,Size of town,Size of town
+V253_CS,Size of town (country specific),Size of town (country specific)
+V254,Ethnic group,Ethnic group by observation
+V255,Was the respondent literate,Was the respondent literate or illiterate?
+V256,Region where the interview was conducted,Region where the interview was conducted
+V256B,Region (2) where the interview was conducted,Region (2) where the interview was conducted
+V256C,Region (level 3) where survey was conducted,Region (3) where the interview was conducted
+V257,Language in which interview was conducted,Language in which interview was conducted
+V258,Weight,"Weight variable (Provide a 4-digit weight variable to correct your sample to reflect national distributions of key variables. If no weighting is necessary, simply code each case as “1.” It is especially important to correct for education. For example, if your sample contains 10 percent more university-educated respondents as there are in the adult population, members of this group should be downweighted by 10 percent, giving them a weight of .90)."
+V260,Questionnaire version,Questionnaire version
+V261,Date of interview,Date of interview
+V262,Survey year,Survey year
+V263,Nation-Wave,Nation-Wave
+V264,Nation Year,Nation Year
+V265,Respondent's occupation,Respondent's occupation
+Y001,Materialist/postmaterialist 12-item index,
+Y002,Post-materialist index (4-item),Post-materialist index (4-item)
+Y003,Autonomy Index,"Autonomy Index is a computed variable based on the Children qualities battery.
+
+It uses only four variables:
+
+V19= Important Child Qualities: Religious Faith
+V21= Important Child Qualities: Obedience
+
+V12= Important Child Qualities: Independence
+V18= Important Child Qualities: Determination, Perseverance
+
+Only variables with answers to all v19,v21,v12,18 have an index. The SPSS like formula is:
+
+Compute Y003=-5.
+if v19>=0 and v21>=0 and v12>=0 and v18>=0 then Y003=(v19 + v21)-(v12 +v18)."
+MN_35A,Approximately how many total hours a month were you active in voluntary organizations,Approximately how many total hours a month were you active in voluntary organizations?
+MN_163A,How likely it is that most people view those between the ages of 18 to 29 as friendly,"Now think about those between the ages of 18 to 29. Using the same card, please tell me, how likely it is that most people in [country] view those between the ages of 18 to 29 as friendly?"
+MN_163B,How likely it is that most people view those between the ages of 18 to 29 as competent,"Now think about those between the ages of 18 to 29. Using the same card, please tell me, how likely it is that most people in [country] view those between the ages of 18 to 29 as competent?"
+MN_163C,How likely it is that most people view those between the ages of 18 to 29 with respect,"Now think about those between the ages of 18 to 29. Using the same card, please tell me, how likely it is that most people in [country] view those between the ages of 18 to 29 wih respect?"
+MN_228L,"If you had your preference, in which of the following would you prefer to work","If you had your preference, in which of the following would you prefer to work?"
+MN_228M,How widespread: Corruption is within businesses in your country,Using a scale where 1 means none or low corruption and 10 means high corruption. How widespread do you think that corruption is within businesses in your country?
+MN_228N,How widespread: Corruption is within the government in your country,Using a scale where 1 means none or low corruption and 10 means high corruption. How widespread do you think that corruption is within the government in your country?
+MN_228O,Level of corruption in this country than it was five years ago,"Using a scale where 1 means lower  and 10 means higher. Do you think the level of corruption in this country is lower, about the same, or higher than it was five years ago?"
+MN_228P,Government of your country is doing enough to fight corruption,"Do you think the government of your country is doing enough to fight corruption, or not?"
+MN_228Q,Faced with (last year): People give a bribe/present to solve their problems which are supposed to be for free,"Sometimes people have to give a bribe or a present in order to solve their problems or receive services which are supposed to be for free. In the last 12 months, how often were you personally faced with this kind of situation?"
+MN_228R,Opinion of those who start and run their own businesses,"In general, do you have a favorable or an unfavorable opinion of those who start and run their own businesses?"
+MN_228S1,Degree of satisfaction (city/area where you live): The public transportation systems,"In the city or area where you live, are you satisfied or dissatisfied with the quality of the following?:
+
+The public transportation systems"
+MN_228S2,Degree of satisfaction (city/area where you live): The roads and highways,"In the city or area where you live, are you satisfied or dissatisfied with the quality of the following?:
+
+The roads and highways"
+MN_228S3,Degree of satisfaction (city/area where you live): The schools,"In the city or area where you live, are you satisfied or dissatisfied with the quality of the following?:
+
+The schools"
+MN_228S4,Degree of satisfaction (city/area where you live): The quality of air,"In the city or area where you live, are you satisfied or dissatisfied with the quality of the following?:
+
+The quality of air"
+MN_228S5,Degree of satisfaction (city/area where you live): The quality of water,"In the city or area where you live, are you satisfied or dissatisfied with the quality of the following?:
+
+The quality of water"
+MN_228S6,Degree of satisfaction (city/area where you live): The quality of health care,"In the city or area where you live, are you satisfied or dissatisfied with the quality of the following?:
+
+The quality of health care"
+MN_228S7,Degree of satisfaction (city/area where you live): The quality of housing,"In the city or area where you live, are you satisfied or dissatisfied with the quality of the following?:
+
+The quality of housing"
+MN_228S8,Degree of satisfaction (city/area where you live): The beauty or physical setting,"In the city or area where you live, are you satisfied or dissatisfied with the quality of the following?:
+
+The beauty or physical setting"
+MN_229A,Have you actively looked for work in the past four weeks,Have you actively looked for work in the past four weeks:
+MN_229B,If you received an employment opportunity (last/next month): you would be interested and able to start working,"If you received an employment opportunity in the last four weeks or during the next month, would you be interested and able to start working?"
+MN_230A,Are you registered through your employer with the Social Security in [country],Are you registered through your employer with the [name of the national social security agency  of the country] of [your country]?
+MN_233A,Degree of satisfaction: Salary and benefits of your current primary job,How satisfied are you with the salary and benefits of your current primary job?
+MN_233B,Degree of satisfaction: Opportunities for professional development/promotion in your current primary job,How satisfied are you with the opportunities for professional development and promotion in your current primary job?
+MN_234A,Have a business/have taken steps to start a business (by yourself/with others) during last year,Do you own a business or have taken tangible steps to start a business during the past twelve months (either by yourself or with others)?
+MN_237A,You/member of your family living with you (over last year) - borrow money,"Over the past year, did you or a member of your family living with you borrow money?"
+MN_237B1,"If 'borrow money', from any of the following places: Microfinance Institution","If ‘yes’, did you borrow from any of the following places?:
+
+Microfinance Institution"
+MN_237B2,"If 'borrow money', from any of the following places: Commercial Bank","If ‘yes’, did you borrow from any of the following places?:
+
+Commercial Bank"
+MN_237B3,"If 'borrow money', from any of the following places: Public Bank","If ‘yes’, did you borrow from any of the following places?:
+
+Public Bank"
+MN_237B4,"If 'borrow money', from any of the following places: Friends or Family","If ‘yes’, did you borrow from any of the following places?:
+
+Friends or Family"
+MN_237B5,"If 'borrow money', from any of the following places: Informal Savings and Lending Association (e.g. Jamiyat)","If ‘yes’, did you borrow from any of the following places?:
+
+Informal Savings & Lending Association (e.g. Jamiyat)"
+MN_237B6,"If 'borrow money', from any of the following places: Credit Supplier","If ‘yes’, did you borrow from any of the following places:
+
+Credit Supplier"
+MN_237B7,"If 'borrow money', from any of the following places: Other","If ‘yes’, did you borrow from any of the following places?:
+
+Other"
+MN_237C1,"If 'borrow money', the loan was used for: Starting or Growing a Business","If ‘yes’, was the loan used for starting or Growing a Business?"
+MN_237C2,"If 'borrow money', the loan was used for: Buying or Improving a Home","If ‘yes’, was the loan used for buying or Improving a Home?"
+MN_237C3,"If 'borrow money', the loan was used for: Getting Married","If ‘yes’, was the loan used for getting married?"
+MN_237C4,"If 'borrow money', the loan was used for:  Household Purchases","If ‘yes’, was the loan used for household purchases?"
+MN_237C5,"If 'borrow money', the loan was used for:  Emergencies","If ‘yes’, was the loan used for emergencies?"
+MN_237C6,"If 'borrow money', the loan was used for: Others","If ‘yes’, was the loan used for others?"
+MN_249A1,Formal education system [country] provides people with skills/ training: To find employment,Do you think the formal education system in your country provides people with the skills and training they need: to find employment?
+MN_249A2,Formal education system [country] provides people with skills/ training: To perform their jobs well,Do you think the formal education system in your country provides people with the skills and training they need to perform their jobs well?
+MN_249A3,Formal education system [country] provides people with skills/ training: To start a business,Do you think the formal education system in your country provides people with the skills and training they need to start a business?
+SACSECVAL,Overall Secular Values,Overall Secular Values
+SECVALWGT,Weight for overal secular values,Weight for overal secular values

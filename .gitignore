@@ -1,0 +1,17 @@
+*.css
+*.ttf
+*.js
+*.woff
+*.svg
+*.eot
+*.rdx
+*.rdb
+*.RData
+*.Rhistory
+Culture_and_Democracy_files/bootstrap-2.3.2/img/glyphicons-halflings-white.png
+Culture_and_Democracy_files/bootstrap-2.3.2/img/glyphicons-halflings.png
+*.pper
+.Rproj.user/
+WVS combined variable names and descriptions.csv
+WVS.R
+ggnet2.R

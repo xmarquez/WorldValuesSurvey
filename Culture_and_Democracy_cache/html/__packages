@@ -1,0 +1,13 @@
+base
+dplyr
+reshape2
+ggplot2
+scales
+cluster
+stringr
+countrycode
+sp
+rworldmap
+igraph
+foreign
+GGally

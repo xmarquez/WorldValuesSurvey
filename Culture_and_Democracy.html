@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+<title>What do people think of democracy? And does it matter?</title>
+
+<script src="Culture_and_Democracy_files/jquery-1.11.0/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link href="Culture_and_Democracy_files/bootstrap-2.3.2/css/bootstrap.min.css" rel="stylesheet" />
+<link href="Culture_and_Democracy_files/bootstrap-2.3.2/css/bootstrap-responsive.min.css" rel="stylesheet" />
+<script src="Culture_and_Democracy_files/bootstrap-2.3.2/js/bootstrap.min.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<link rel="stylesheet"
+      href="Culture_and_Democracy_files/highlight/default.css"
+      type="text/css" />
+<script src="Culture_and_Democracy_files/highlight/highlight.js"></script>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+<div class="container-fluid main-container">
+
+
+<div id="header">
+<h1 class="title">What do people think of democracy? And does it matter?</h1>
+</div>
+
+
+<p>(A graph-heavy post on public opinion by someone who has never worked with public opinion data before, and who is in addition <a href="http://onlinelibrary.wiley.com/doi/10.1111/1467-9248.12202/abstract">very skeptical about the importance of public opinion for large-scale institutional outcomes</a>. Part of <a href="http://abandonedfootnotes.blogspot.co.nz/search/label/history%20of%20political%20regimes">this occasional series</a>).</p>
+<p>I’ve been playing around with the data from the latest wave of the <a href="http://www.worldvaluessurvey.org/wvs.jsp">World Values Survey</a>, trying to figure out what people think of “democracy” in these large-scale surveys, and whether it is related to any large-scale institutional features of political systems. And I must say, I find public opinion about democracy quite puzzling sometimes.</p>
+<p>It’s not that people don’t like democracy. On the contrary, public opinion surveys like the <a href="http://www.worldvaluessurvey.org/wvs.jsp">World Values Survey</a> or the various regional “Barometer” polls (<a href="http://www.latinobarometro.org/lat.jsp">Latinobarometer</a>, <a href="http://www.arabbarometer.org/">Arab Barometer</a>, <a href="http://www.asianbarometer.org/">Asian Barometer</a>, <a href="http://www.afrobarometer.org/">Afrobarometer</a>) tend to consistently find that people really like the <em>idea</em> of democracy; asking about democracy is like asking about motherhood. Consider the figure below, which plots the range of responses in the sixty countries<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> surveyed by the <a href="http://www.worldvaluessurvey.org/wvs.jsp">WVS</a> in its latest iteration to a question asking about people’s opinion of “having a democratic political system”:</p>
+<p><img src="Culture_and_Democracy_files/figure-html/viewsAboutPoliticalSystems-1.png" /></p>
+<p>The pattern is clear enough: in more than half of these countries (including many countries most people would classify as “authoritarian”), at least 40% of the population says that having a democratic system is a “very good” idea, and an additional 30% say it is a “fairly good” idea. In the modal country, in other words, large majorities are “pro-democracy” in some abstract sense. Nevertheless, these same majorities are not always very discriminating about what they consider “good” political systems. In some countries, large numbers of people agree <em>both</em> with the idea that democracy is a good form of government, <em>and</em> that having the army rule, or having a strong leader “that does not bother with parliament and elections” is <em>also</em> a good thing.</p>
+<p>Consider the figure below, which compares answers to the question of whether respondents consider “having a democratic system” a good idea with their answers to questions about other political systems. The figure is ordered according to whether the pattern of responses in a country is similar to that found in New Zealand (the first country at the top left). New Zealand is a good reference country because (besides the fact that I live there) the pattern of belief in NZ is consistently “democratic”: democracy is considered to be good by large majorities, while army rule, expert rule, and strong leader rule are not so considered (though expert rule is not altogether discounted).<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a> Many countries display a similar pattern of responses (not just “Western” countries; see, e.g., Thailand, where democracy is greatly preferred to army rule or expert rule, even if a substantial minority does evaluate these alternatives positively, reflecting Thailand’s persistent political conflicts), but in others views are more confusing. For example, majorities of people in India, Mexico, and Egypt seem to think <em>all</em> political systems are a great idea; army rule, democracy, expert rule, it’s all good.<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a></p>
+<p><img src="Culture_and_Democracy_files/figure-html/viewsAboutPoliticalSystemsPerCountry-1.png" /></p>
+<p>Indeed, about 36% of all respondents in India give positive evaluations (answers of “very good” or “fairly good”) to <em>all</em> hypothetical political systems, while less than <em>1%</em> of respondents are what we might call “principled democrats,” evaluating democracy positively while negatively assessing the remaining options, as we can see in the figure below.<a href="#fn4" class="footnoteRef" id="fnref4"><sup>4</sup></a> By contrast, around <em>47%</em> of respondents of respondents in Sweden are “principled democrats,” while only around 4% are what we might call “enthusiasts about everything.” (I’m not sure why people in India seem to be so enthusiastic about all the options here; perhaps this is some weird survey artifact. Readers from India might help me out here?)</p>
+<p><img src="Culture_and_Democracy_files/figure-html/responseTypesPerCountry-1.png" /></p>
+<p>The <a href="http://www.worldvaluessurvey.org/wvs.jsp">WVS</a> also asks a number of questions about whether people consider various things “essential” to democracy, ranging from classic liberal ideas (free elections, equality under the law, civil rights) to economic and social outcomes (the government makes people’s outcomes equal), to “antiliberal” ideas (“religious authorities interpret the laws,” “army takes over if the government is incompetent”). These answers also display interesting patterns. The figure below is again arranged with New Zealand at the top, followed by those countries whose pattern of responses is most similar:</p>
+<p><img src="Culture_and_Democracy_files/figure-html/viewsAboutDemocracyPerCountry-1.png" /></p>
+<p>Aggregate conceptions of democracy in the countries at the top of the figure are recognizably “liberal”: free elections, women’s rights, and civil rights are seen as pretty important to democracy, while economic equality and social security are seen as less important, and “antiliberal” ideas receive little support (though not zero support!). In comparison, aggregate conceptions of democracy in Russia or Kazakhstan (and in most of the post-Communist countries in the sample) tend to emphasize economic equality and social security more (though civil rights and free elections remain important), while in Yemen or Pakistan just about everything in the list is seen as essential to democracy (including antiliberal ideas), and in Bahrain just about everything is seen as unimportant. (The pattern of responses in Bahrain is really puzzling. Any readers who can enlighten me?).</p>
+<p>We can also divide individual responses into different types, depending on how much they emphasize different ideas – liberal, egalitarian, and antiliberal – relative to some baseline. This can be done in different ways, but below I simply categorize a response as emphasizing one of these ideas if it scores higher than the world average for the relevant items.<a href="#fn5" class="footnoteRef" id="fnref5"><sup>5</sup></a> We can thus distinguish between relative liberal democrats (people who consider free elections and political rights more important than the median answer in all countries, and egalitarian and antiliberal liberals less so), social democrats (people who associate both liberal and “economic” ideas with democracy), egalitarian democrats (people who associate democracy primarily with “economic” ideas), antiliberals (people who associate democracy primarily with anti-liberal ideas, like “the army takes over when the government is incompetent”), antiegalitarians (people who associate democracy with everything except economic equality), enthusiasts (people who associate democracy with everything), and refusers (people who do not think any of the options on offer in the survey is especially essential). The figure below is ordered according to the percentage of respondents who express relatively liberal and liberal egalitarian views of democracy:</p>
+<p><img src="Culture_and_Democracy_files/figure-html/responseTypesOnDemocracyPerCountry-1.png" /></p>
+<p>Perhaps unsurprisingly, large numbers of people in “Western” countries – Germany, Sweden, New Zealand, etc. – express views of democracy that are “liberal” or “liberal” egalitarian (relative to the world average), though proportions of “principled” liberals and “egalitarian” liberals vary (Germany contains a very large number of “egalitarian” liberals; New Zealand and the United States do not). Overall, however, pure liberal views are relatively uncommon; indeed, in some countries (Bahrain, South Africa) there are basically <em>no</em> detectable relative liberals (egalitarian or otherwise), while in many countries (e.g, Qatar, Iraq) large numbers of respondents emphasize both economic equality and anti-liberal ideas. This is not to say that nobody cares about free elections or civil rights; but large numbers of people in many societies appear to see no contradiction between thinking that free elections and civl rights are important to democracy (even if not the most essential thing), and thinking that democracy also involves having a role for religious authorities in politics, or for the army when the elected government appears to fail.</p>
+<p>The figure above suggests that aggregate conceptions of democracy may cluster along “cultural” lines. Using a simple graph representation of the similarities between patterns of responses among countries,<a href="#fn6" class="footnoteRef" id="fnref6"><sup>6</sup></a> and a community discovery algorithm, we find between 3 and 7 clusters (depending on the algorithm used), one of which typically corresponds to the “Western” countries plus Japan and South Korea, and another to the Post-socialist world (Soviet countries plus China plus a few others). For example, the figure below displays five clusters, arranged by color according to the average similarity of the conception of democracy of countries in the cluster to New Zealand; the labels in the legend show a representative country in the cluster.</p>
+<p><img src="Culture_and_Democracy_files/figure-html/unnamed-chunk-1-1.png" /></p>
+<p>The countries in the dark blue group (“New Zealand”) show “liberal” patterns of responses, and contain most of the “Western”&quot; democracies, plus Japan, South Korea, and Uruguay. The countries in the orange (“Russia”) group contain most of the post-socialist countries, plus a few others (Egypt, Malaysia). Countries in light blue comprise an “Iberoamerican” cluster (Spain plus Argentina and Chile) that is pretty similar to the “Westerne Europe” cluster; countries in dark red are pretty similar to the post-socialist countries, though they tend to have more “illiberal” conceptions of democracy. One could easily tell a story here about how socialization in formerly communist countries tended to associate democracy with “socialist democracy” and the egalitarian values of the socialist project, values that, though denied in practice in some ways, seem to have been accepted by the vast majority of the population. And a contrasting story could be told about the “Western” conception of democracy, which more strictly separates egalitarian “outcomes” from democracy as such. I am less sure about the other, more illiberal clusters; I suppose one could tell a story about the importance of “religious authority” in some of them, but it certainly would not fit all countries. Perhaps the most obvious feature of the “Cyprus” (light yellow) and “Peru” (dark red) clusters is that they seem to gather many the countries of what was formerly called the “third world,” which suggests a better division into “first,” “second,” and “third” world conceptions of democracy.</p>
+<p>One might also ask about the correlation between these conceptions of democracy and “actual” measures of democracy. Is a certain set of values normally associated – or even contributes to the development of – standardly democratic institutions? <a href="http://folk.uio.no/berasch/Inglehart-PS.pdf">Ronald Inglehart</a> (one of the principal investigators for the <a href="http://www.worldvaluessurvey.org/wvs.jsp">WVS</a>) has argued that the number of people who “like” democracy or find it important for their country is essentially uncorrelated with standard measures of democracy (he uses <a href="http://freedomhouse.org/">Freedom House</a>, but the point holds for other measures, like <a href="http://www.systemicpeace.org/inscrdata.html">Polity IV</a>). Talk is cheap, and “liking” democracy has little to do with “having” a standardly democratic political system. Instead, he suggests, democracy is associated with what he and his collaborators call “post-materialist” values.</p>
+<p>Inglehart is certainly right about the lack of correlation between “liking” democracy (or even considering it important) and standard measures of democracy (as we can see below); but though the measures of post-materialism included with the <a href="http://www.worldvaluessurvey.org/wvs.jsp">WVS</a> do show some correlation with standard measures of democracy, this is not always very high. Interestingly, however, the percentage of people who give “liberal” answers to questions about the essential characteristics of democracy (relative to the world average) displays a higher correlation with “standard” measures of democracy than almost anything else:</p>
+<p><img src="Culture_and_Democracy_files/figure-html/unnamed-chunk-2-1.png" /> <img src="Culture_and_Democracy_files/figure-html/unnamed-chunk-2-2.png" /> <img src="Culture_and_Democracy_files/figure-html/unnamed-chunk-2-3.png" /> <img src="Culture_and_Democracy_files/figure-html/unnamed-chunk-2-4.png" /> <img src="Culture_and_Democracy_files/figure-html/unnamed-chunk-2-5.png" /></p>
+<pre><code>##                                              Current FH score, reversed
+## Avg answer for V140: importance of democracy                        0.4
+## Avg post-materialism index (12 items)                               0.5
+## Avg post-materialism index (4 items)                                0.5
+## Avg autonomy index                                                  0.3
+## % people who think democracy is good                                0.1
+## % people who think only democracy is good                           0.3
+## % relative liberals                                                 0.6
+## % liberals plus liberal egalitarians                                0.6
+##                                              Cumulative reversed FH score
+## Avg answer for V140: importance of democracy                          0.3
+## Avg post-materialism index (12 items)                                 0.5
+## Avg post-materialism index (4 items)                                  0.6
+## Avg autonomy index                                                    0.3
+## % people who think democracy is good                                  0.1
+## % people who think only democracy is good                             0.4
+## % relative liberals                                                   0.6
+## % liberals plus liberal egalitarians                                  0.5
+##                                              Current Polity2
+## Avg answer for V140: importance of democracy             0.2
+## Avg post-materialism index (12 items)                    0.4
+## Avg post-materialism index (4 items)                     0.5
+## Avg autonomy index                                       0.2
+## % people who think democracy is good                     0.0
+## % people who think only democracy is good                0.1
+## % relative liberals                                      0.5
+## % liberals plus liberal egalitarians                     0.5
+##                                              Cumulative Polity2
+## Avg answer for V140: importance of democracy                0.1
+## Avg post-materialism index (12 items)                       0.3
+## Avg post-materialism index (4 items)                        0.4
+## Avg autonomy index                                          0.3
+## % people who think democracy is good                        0.0
+## % people who think only democracy is good                   0.3
+## % relative liberals                                         0.5
+## % liberals plus liberal egalitarians                        0.4</code></pre>
+<p>I do not think this says much about whether a certain combination of values is needed to produce or sustain democracy; more likely, the process of socialization in countries with “consolidated” liberal democratic institutions, like New Zealand, more clearly differentiates “democracy” from other alternatives, and more clearly associates it with a specific constellation of institutions, while elsewhere the word might come to be filled with all kinds of additional aspirations, depending partly on the dominant ideological themes of the regime. In other words, I find it more plausible that liberal democratic institutions tend to produce liberal democrats than the reverse. And I do not find Inglehart <em>et al.</em>’s argument for the importance of post-materialist values to the long-run stability of democracy convincing; though there is certainly a correlation between these post-materialism indexes and some measures of democracy (not all), some <a href="http://dx.doi.org/10.1007/BF02686166">careful statistical work</a> suggests the relationship goes away when using other measures of democracy and accounting for reverse causation (from institutions to values).</p>
+<p>The <a href="http://www.worldvaluessurvey.org/wvs.jsp">World Values Survey</a> also asks some questions about what people think of the actual <em>degree</em> of democracy in their country. Some are general questions – how democratic would you say your country is? – while others are more specific – e.g., about whether the opposition has a chance to compete in elections. One interesting thing about the responses to these questions are not highly correlated with “standard” measures of democracy; the expert and popular crowds often diverge, sometimes radically, about these assessments:</p>
+<p><img src="Culture_and_Democracy_files/figure-html/unnamed-chunk-3-1.png" /> <img src="Culture_and_Democracy_files/figure-html/unnamed-chunk-3-2.png" /> <img src="Culture_and_Democracy_files/figure-html/unnamed-chunk-3-3.png" /> <img src="Culture_and_Democracy_files/figure-html/unnamed-chunk-3-4.png" /> <img src="Culture_and_Democracy_files/figure-html/unnamed-chunk-3-5.png" /></p>
+<pre><code>##                                          FH Political Rights
+## Avg importance of democracy                            -0.33
+## Avg rating of current level of democracy               -0.40
+## Avg rating of human rights protection                   0.00
+## Avg index of election integrity                        -0.38
+##                                          FH Civil Rights
+## Avg importance of democracy                        -0.38
+## Avg rating of current level of democracy           -0.34
+## Avg rating of human rights protection              -0.04
+## Avg index of election integrity                    -0.46
+##                                          Total FH, reversed Polity2
+## Avg importance of democracy                            0.35    0.24
+## Avg rating of current level of democracy               0.38    0.26
+## Avg rating of human rights protection                  0.02    0.25
+## Avg index of election integrity                        0.42    0.08</code></pre>
+<p>These differences are not altogether surprising; different people will answer “rating” questions like these from different baselines, and their responses may anyway be affected by such factors as how well they think the country is doing, what political events are in the news, and perhaps even their mood or the weather at the time of the interview. Someone with more time and training than me could probably figure out how to calibrate these responses better. Yet there are still some interesting patterns worth noticing. For example, there seems to be something of a “sour grapes” effect: in some countries where people rate the level of democracy lower, they also tend to give lower average answers to the question of how important it is that their country be ruled democratically. Also, answers about elections in less democratic countries (by standard measures) tend to be reasonably well correlated with measures of democracy; people in Rwanda, for example, are surprisingly upbeat when they answer the question of how democratically they think their country is ruled (perhaps due to the successes of Rwandan economic development under Kagame), but (on the aggregate at least) they are under few illusions about their electoral process, which they accurately judge are hardly models of fairness. The one obvious outlier is Singapore, where people express great confidence in the freedom and fairness of their elections while being given a low FH/Polity2 score.</p>
+<p>The specific answers to questions about elections are interesting in themselves (it’s too bad it was only asked in 40 out of the 60 countries in this wave of the <a href="http://www.worldvaluessurvey.org/wvs.jsp">WVS</a>). The figure below is arranged from “freest” to “least free” (by the total <a href="http://freedomhouse.org/">Freedom House</a> score), starting with Australia and Chile:</p>
+<p><img src="Culture_and_Democracy_files/figure-html/unnamed-chunk-4-1.png" /></p>
+<p>Countries at the very top display high levels of trust in elections: most people think votes are counted fairly, election officials are fair, voters are given a genuine choice at the polls, opposition politicians are not prevented from running, there’s little violence at the polls, and media coverage is reasonably unbiased. (The Netherlands is the model country here; the Dutch really trust in their electoral process!). As we go down the list, however, we find countries where trust in the voting process is mingled with distrust at the media and the rich (e.g., Taiwan and Brazil), and eventually countries where opinion is highly polarized (e.g., Pakistan, Zimbabwe, Egypt, or Nigeria, where significant numbers think votes are counted fairly and significant numbers think they aren’t). Only in a few countries (perhaps Yemen in 2014 or Ukraine in 2011?) do we find something like a generalized distrust of the electoral process by majorities of those surveyed; more usually, different groups in the population fiercely disagree about the fairness of the electoral process (as in Venezuela today – unfortunately not included in this WVS wave).This is one more reason to think that elections do not necessarily “legitimate” governments; if half your population strongly doubts their fairness, and the other half strongly supports it, the election is going to be experienced quite differently by each side.</p>
+<p>The nine items on elections measure, as far as I can tell, measure four dimensions of the electoral process: fairness of the election itself (electoral officials are fair, votes are counted fairly, voters are threatened with violence at the polls); fairness of the media (TV news coverage, journalists); extent of choice (voters are offered a genuine choice, opposition politicians are prevented from running); and interference by the wealthy (voters are bribed, rich people buy elections). We can thus group individual responses according to trust in each of these components:</p>
+<p><img src="Culture_and_Democracy_files/figure-html/unnamed-chunk-5-1.png" /></p>
+<p>All code for the figures in this post is available <a href="https://github.com/xmarquez/WorldValuesSurvey">in this GitHub repository</a>. You will also need the <a href="http://www.worldvaluessurvey.org/wvs.jsp">World Values Survey</a> data file (sixth wave, 2011-2014), and the latest data from Freedom House (helpfully converted into an R-friendly <a href="https://drive.google.com/file/d/0B5wyt4eDq98GZVhUamRKVXJpLVU/view?usp=sharing">CSV file</a> by <a href="https://dartthrowingchimp.wordpress.com/">Jay Ulfelder</a> <a href="https://drive.google.com/file/d/0B5wyt4eDq98GZVhUamRKVXJpLVU/view?usp=sharing">here</a>).</p>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>Not all questions were asked in every country. The countries surveyed were Algeria (2013), Argentina (2013), Armenia (2011), Australia (2012), Azerbaijan (2011), Bahrain (2014), Belarus (2011), Brazil (2014), Chile (2011), China (2012) , Colombia (2012), Cyprus (Greek side only, 2011), Ecuador (2013), Egypt (2013), Estonia (2011), Georgia (2014), Germany (2013), Ghana (2012), Hong Kong (2013), India (2014), Iraq (2012), Japan (2010), Jordan (2014), Kazakhstan (2011), Kuwait (2014), Kyrgyzstan (2011), Lebanon (2013), Libya (2014), Malaysia (2012), Mexico (2012), Morocco (2011), Netherlands (2012), New Zealand (2011), Nigeria (2011), Pakistan (2012), Palestine (2013), Peru (2012), Philippines (2012), Poland (2012), Qatar (2010), Romania (2012), Russia (2011), Rwanda (2012), Singapore (2012), Slovenia (2011), South Africa (2013), South Korea (2010), Spain (2011), Sweden (2011), Taiwan (2012), Thailand (2013), Trinidad and Tobago (2011), Tunisia (2013), Turkey (2011), Ukraine (2011), United States (2011), Uruguay (2011), Uzbekistan (2011), Yemen (2014), and Zimbabwe (2012).<a href="#fnref1">↩</a></p></li>
+<li id="fn2"><p>For the details of how the measure of similarity was calculated, take a look at the <a href="https://github.com/xmarquez/WorldValuesSurvey">code for this post</a>. Essentially, I created a matrix of the proportions of the population giving each answer in each country, and used a Gower distance measure to calculate which countries were similar to which.<a href="#fnref2">↩</a></p></li>
+<li id="fn3"><p>Egyptians weren’t asked about army rule in 2013. Perhaps the question was regarded as too politically sensitive in the circumstances.<a href="#fnref3">↩</a></p></li>
+<li id="fn4"><p>The figure excludes Egypt, Morocco, and Qatar, where some of these questions weren’t asked. There’s a fair amount of non-response to these questions in many countries; that’s the reason why the bars in the figure don’t go all the way to the right hand side.<a href="#fnref4">↩</a></p></li>
+<li id="fn5"><p>More precisely, I add up the scores for the three items measuring each of the main ideas, and categorize a response as emphasizing that idea if it this number is larger than average across all countries. “Liberal” ideas are measured by the questions asking about how essential women’s rights, free elections, and civil rights are to democracy; “egalitarian” ideas are measured by the questions asking about how essential income equality, state provision of unemployment, and taxation of the rich and subsidies to the poor are to democracy; and “antiliberal” ideas are measured by the questions asking about about how essential obedience to the state, the army taking over if the government is incompetent, and a role for religious authorities interpreting the laws are to democracy. All of these are, of course, highly imperfect as measures of these ideas; but this is in the nature of large-scale survey research.<a href="#fnref5">↩</a></p></li>
+<li id="fn6"><p>A weighted undirected graph where edge strength is the measure of similarity between any two countries in their response patterns to all of the nine questions concerning the essential characteristics of democracy. See the <a href="https://github.com/xmarquez/WorldValuesSurvey">code</a> for this post for more detail.<a href="#fnref6">↩</a></p></li>
+</ol>
+</div>
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+$(document).ready(function () {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+});
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
