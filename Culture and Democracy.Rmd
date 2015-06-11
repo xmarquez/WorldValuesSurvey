@@ -177,7 +177,7 @@ library(stringr)
 
 data <- WV6_Data_v_2015_04_18 %>% select(country_year,V131:V139, weight) %>% mutate(V131 = ifelse(V131 < 0,NA, V131), V132 = ifelse(V132 < 0,NA, V132),V133 = ifelse(V133 < 0,NA, V133), V134 = ifelse(V134 < 0,NA, V134), V135 = ifelse(V135 < 0,NA, V135), V136 = ifelse(V136 < 0,NA, V136), V137 = ifelse(V137 < 0,NA, V137), V138 = ifelse(V138 < 0,NA, V138), V139 = ifelse(V139 < 0,NA, V139))
 
-data <- data %>% mutate(liberal = V133 + V136 + V139, egalitarian = V134 + V131 + V137, antiliberal = V132 + V139 + V138) %>% group_by(country_year) %>% select(liberal,egalitarian,antiliberal,weight) 
+data <- data %>% mutate(liberal = V133 + V136 + V139, egalitarian = V134 + V131 + V137, antiliberal = V132 + V135 + V138) %>% group_by(country_year) %>% select(liberal,egalitarian,antiliberal,weight) 
 
 data <- data %>% mutate(country_liberal_mean = weighted.mean(liberal,weight,na.rm=TRUE), country_egalitarian_mean = weighted.mean(egalitarian,weight,na.rm=TRUE), country_antiliberal_mean = weighted.mean(antiliberal,weight,na.rm=TRUE)) %>% ungroup() %>% mutate(liberal_mean = mean(unique(country_liberal_mean),na.rm=TRUE), egalitarian_mean = mean(unique(country_egalitarian_mean),na.rm=TRUE),antiliberal_mean = mean(unique(country_antiliberal_mean),na.rm=TRUE))
 
